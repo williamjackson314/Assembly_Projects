@@ -39,9 +39,6 @@
 ; 	green_led_on
 ; 	green_led_off
 
-; By manipulating the sequence of funtion calls, you can generate 
-; different light patterns without needing to know how the 
-; functions XXX_led_on and XXX_led_off  work
 
 FIRST			EQU 4
 SECOND 			EQU 3
